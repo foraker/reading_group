@@ -12,9 +12,12 @@
 - Predicting the SQL ActiveRecord will generate
 - Query challenges (e.g. comment counts for each user)
 - Testing ActiveRecord
+- N + 1
+- Rails footnotes
 
 #### Materials
 - Rails 4 Way, Chapter 5-9
+- [Rails 4 ActiveRecord Release Notes](http://guides.rubyonrails.org/4_0_release_notes.html#active-record)
 
 ## Week 2. Abstractions over Concretions (Ruby)
 #### Key Concepts
